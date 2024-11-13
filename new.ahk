@@ -1,16 +1,5 @@
-﻿;              {1}    {2}    {3}    {4}    {5}    {6}    {7}    {8}
-targetX := 266
-targetY := 214
-step := 77
-speed := 0
-page1 := targetX + 0 * step
-page2 := targetX + 1 * step
-page3 := targetX + 2 * step
-page4 := targetX + 3 * step
-page5 := targetX + 4 * step
-page6 := targetX + 5 * step
-page7 := targetX + 6 * step
-page8 := targetX + 7 * step
+﻿
+
 !^s::
 {
 ; Send, {SHIFTDOWN}{HOME}{SHIFTUP}{CTRLDOWN}c{CTRLUP}{ALTDOWN}{TAB}{ALTUP}{CTRLDOWN}v{CTRLUP}
